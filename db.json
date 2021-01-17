@@ -1,0 +1,457 @@
+{
+  "pdfWithChronicDieases": [
+    {
+      "chronicDieases": [
+        {
+          "chronicCondition": "To be done !",
+          "code": ""
+        }
+      ],
+      "id": "2080241762-50 (2).pdf"
+    },
+    {
+      "chronicDieases": [
+        {
+          "chronicCondition": "Ataxia",
+          "code": "Code1"
+        },
+        {
+          "chronicCondition": "Benign essential tremor",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Benign prostatic hyperplasia with weak urinary stream",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Beta-blockers contraindicated",
+          "code": ""
+        },
+        {
+          "chronicCondition": "CAD in native artery",
+          "code": ""
+        },
+        {
+          "chronicCondition": "CKD (chronic kidney disease) stage 2, GFR 60-89 ml/min",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Calcification of abdominal aorta",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Carrier of staphylococcus",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Changes in retinal vascular appearance of both eyes",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic GERD",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic bronchitis, mucopurulent",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic fatigue syndrome",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic maxillary sinusitis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Combined forms of age-related cataract of both eyes",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Controlled type 2 diabetes mellitus with stage 2 chronic kidney disease, without",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Degeneration of basal ganglia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Diarrhea",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Elevated uric acid in blood",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Essential hypertension",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Facet arthritis of cervical region",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Fibromyalgia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Fredrickson type IIb hyperlipoproteinemia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Mild persistent asthma, uncomplicated",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Old MI (myocardial infarction)",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Polyneuropathy associated with underlying disease",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Shy-Drager syndrome",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Simple obesity",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Status post coronary artery bypass graft",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Subjective visual disturbance of both eyes",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Systolic CHF, chronic",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Tobacco abuse",
+          "code": ""
+        },
+        {
+          "chronicCondition": "long-term current use of insulin",
+          "code": ""
+        }
+      ],
+      "id": "2090008119-42.pdf"
+    },
+    {
+      "chronicDieases": [
+        {
+          "chronicCondition": "Aortic atherosclerosis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Atherosclerotic heart disease of native coronary artery with angina pectoris",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Benign essential hypertension",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Body mass index (bmi) 34.0-34.9, adult",
+          "code": ""
+        },
+        {
+          "chronicCondition": "CAD in native artery",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Cervical spondylosis without myelopathy",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic GERD",
+          "code": ""
+        },
+        {
+          "chronicCondition": "DJD (degenerative joint disease), lumbosacral",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Dry eye syndrome of bilateral lacrimal glands",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Facet arthritis of cervical region",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Fredrickson type 2a hyperlipoproteinemia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "History of colonic polyps",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Hx MRSA infection",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Hyperparathyroidism",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Hypothyroidism (acquired)",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Keratoconjunctivitis sicca",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Keratoconjunctivitis sicca not specified as Sjogren's",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Lateral epicondylitis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Lumbosacral spondylosis without myelopathy",
+          "code": ""
+        },
+        {
+          "chronicCondition": "MRSA infection",
+          "code": ""
+        },
+        {
+          "chronicCondition": "NSAID long-term use",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Opioid use disorder",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Osteoarthritis of hand",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Osteopenia after menopause",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Panlobular emphysema",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Primary osteoarthritis of both knees",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Severe obesity",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Spinal stenosis of lumbar region",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Stricture and stenosis of esophagus",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Trochanteric bursitis of both hips",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Vitamin D deficiency",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Vitreous degeneration of both eyes",
+          "code": ""
+        }
+      ],
+      "id": "2090009847-46.pdf"
+    },
+    {
+      "chronicDieases": [
+        {
+          "chronicCondition": "Anemia of other chronic disease",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Aortic arch atherosclerosis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Aortic dilatation",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Benign essential hypertension",
+          "code": ""
+        },
+        {
+          "chronicCondition": "CAD in native artery",
+          "code": ""
+        },
+        {
+          "chronicCondition": "CKD (chronic kidney disease) stage 3, GFR 30-59 ml/min",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Cardiomegaly",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Cataract, nuclear sclerotic senile",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic respiratory failure with hypoxia, on home O2 therapy",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Chronic sinusitis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Cortical senile cataract of both eyes",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Diffuse large cell lymphoma in remission",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Fredrickson type 4 hyperlipoproteinemia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "High risk medication use",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Interstitial lung disease",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Leukocytoclastic vasculitis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Long term current use of systemic steroids",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Lumbosacral spondylosis without myelopathy",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Mixed connective tissue disease",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Nevus of right conjunctiva",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Old MI (myocardial infarction)",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Opioid dependence, uncomplicated",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Postmenopausal osteoporosis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Pulmonary hypertension, primary",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Sarcoidosis, lung",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Severe obesity",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Stenosis of trachea",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Supplemental oxygen dependent",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Tracheostomy complication",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Trochanteric bursitis of both hips",
+          "code": ""
+        }
+      ],
+      "id": "2090010030-47.pdf"
+    },
+    {
+      "chronicDieases": [
+        {
+          "chronicCondition": "Atherosclerosis of both carotid arteries",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Cigarette smoker",
+          "code": ""
+        },
+        {
+          "chronicCondition": "DM type 2 with diabetic mixed hyperlipidemia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Family history of cardiac disorder",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Foraminal stenosis of lumbosacral region",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Fredrickson type 2a hyperlipoproteinemia",
+          "code": ""
+        },
+        {
+          "chronicCondition": "History of right hip replacement",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Low vitamin D level",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Lumbar spondylosis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Multilevel facet arthritis",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Neuropathy of both feet",
+          "code": ""
+        },
+        {
+          "chronicCondition": "Osteopenia after menopause",
+          "code": ""
+        }
+      ],
+      "id": "2090010256-45.pdf"
+    }
+  ]
+}

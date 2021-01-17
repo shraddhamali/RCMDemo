@@ -1,0 +1,74 @@
+<mat-sidenav-container class="sidenav-container">
+    
+  <mat-sidenav mode="side" #sidenavbar id="sidenav" 
+  (openedStart)='showNavLabels = !showNavLabels'
+  (closedStart)='showNavLabels = !showNavLabels' class="sidenav menu-close-btn">
+      <div (click)="toggle(sidenavbar, $event)" class="icons side_nav_icon">
+          <span  class="material-icons">
+              {{ showNavLabels ? 'navigate_next': 'navigate_before' }}
+          </span>
+      </div>        
+      <mat-nav-list *ngIf="!showNavLabels">
+          <mat-list-item>
+            <img src="assets/images/N_logo2x.png">
+          </mat-list-item>
+          <mat-list-item>
+            <img src="assets/images/files.png">
+          </mat-list-item>
+          <mat-list-item>
+            <img  src="assets/images/path2.png">
+          </mat-list-item>
+          <mat-list-item>
+            <img src="assets/images/batch_assi.png">               
+          </mat-list-item>
+      </mat-nav-list>
+  </mat-sidenav>
+  <div [ngClass]="{'margin-left-40' : showNavLabels, 'margin-left-10' : !showNavLabels}">
+
+    <div class="row"> 
+      <div class="col-sm-2 p-0">
+        <h3 class="subHeader  text-center">File List </h3>
+        <mat-nav-list>
+          <mat-list-item *ngFor="let fileInfo of filenames;let i = index" (click)="onItemClick(i)" class="font-13"  [ngClass]="{'selected-item' : fileInfo === selectedFileChronicDieases.id}">
+            <div>
+              <img class="pdf1" src="assets/images/pdfIMG.png">
+              <span class="plr-5"> {{ fileInfo }} </span>
+            </div>
+          </mat-list-item>
+        </mat-nav-list>
+      </div>
+      <div class="col-sm-6 p-0">
+        <div style="height: 100vh">
+          <ngx-extended-pdf-viewer [(src)]="selectedPdfFilePath"></ngx-extended-pdf-viewer>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <h3 class="subHeader text-center"> {{ selectedFileChronicDieases.id ? selectedFileChronicDieases.id: 'Chronic Condition'}} </h3>
+        <div *ngIf="selectedFileChronicDieases.chronicDieases.length">
+          <div class="table-responsive" style="height: 85vh">
+            <table class="table table-hover">
+              <thead>
+                <tr class="table-header">
+                  <th>Chronic Conditions</th>
+                  <th>Code</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr  *ngFor="let dieases of selectedFileChronicDieases.chronicDieases">
+                  <td> {{dieases.chronicCondition}} </td>
+                  <td> <input type="text" class="form-control" [(ngModel)]="dieases.code"> </td>
+                </tr>
+            </table>
+          </div>
+         <div class="text-center">
+          <button type="submit" class="btn m-2" (click)="updateCode()">Submit</button>
+         </div>
+        </div>
+        <div *ngIf="!selectedFileChronicDieases.chronicDieases.length" class="message-text">
+         
+        </div>
+      </div>
+    </div>
+  </div>
+
+</mat-sidenav-container>

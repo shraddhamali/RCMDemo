@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+mat-sidenav .mat-list-base .mat-list-item .mat-list-item-content, .mat-list-base .mat-list-option .mat-list-item-content {
+    padding: 0px 5px !important;
+}
+
+
+mat-sidenav-content {
+    overflow-x: hidden !important;
+}
+
+.font-13 {
+    font-size: 13px !important;
+}
+
+.hidden-overflow {
+    overflow: hidden;
+}
+
+.plr-5 {
+    padding: 0px 5px;
+}

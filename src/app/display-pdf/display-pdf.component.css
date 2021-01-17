@@ -1,0 +1,99 @@
+.sidenav1 {
+    position: fixed;
+    top: 0px;
+    left: 225px;
+    width: 120px;
+    margin-left: -225px;
+    bottom: 0px;
+    background-color: #0D1931;
+    
+}
+/* .sidenav2 {
+    position: fixed;
+    top: 0px;
+    left: 120px;
+    width: 300px;
+    
+    bottom: 0px;
+    background-color:#F7F7F7;
+    
+}
+
+.horizontal{
+    position: fixed;
+        top: 0px;
+        margin-left: 120px;
+        width: 100%;
+        height: 91px;
+        bottom: 0px;
+    background-color: #F2F2F2;
+    
+
+   } */
+   /* .icons2{
+       margin-left: 290px;
+    position: relative; width:240px; 
+}
+.icons2 input{
+    border:none;
+     background-color:#fff;
+      display:block;
+       width: 230px; 
+       text-align: center;
+       box-sizing: border-box ;
+}
+.icons2 img 
+{ 
+   position: absolute;
+    top: 5px;
+     right: 190px;
+     width: 30px;
+     
+} */
+.n_logo{
+    margin-top: 30px;
+    margin-left: 38px;
+    width: 41px;
+    height: 40px;
+}
+.files{
+    margin-top: 50px;
+    margin-left: 38px;
+    width: 41px;
+    height: 40px;
+}
+.path2{
+    margin-top: 50px;
+    margin-left: 38px;
+    width: 41px;
+    height: 40px;
+}
+
+.batch_assi{
+    margin-top: 50px;
+    margin-left: 38px;
+    width: 41px;
+    height: 40px;
+}
+.search{
+    width: 50px;
+    height: 40px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 20px;
+    
+}
+.well-sm{
+    margin-top: -40px;
+    margin-left: 450px;
+    width: 240px;
+    height: 40px;
+    border: white;
+    color: #343434;
+    background-color: white;
+}
+
+.display{
+  margin-left: 120px;
+  width: 1000px;
+}
